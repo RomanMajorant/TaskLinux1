@@ -1,0 +1,10 @@
+drwxr-xr-x 14 roman roman 4096 дек 26 19:26 .
+drwxr-xr-x  3 root  root  4096 дек 26 18:25 ..
+drwxr-xr-x  2 roman roman 4096 дек 26 19:12 Видео
+drwxr-xr-x  2 roman roman 4096 дек 26 19:12 Документы
+drwxr-xr-x  2 roman roman 4096 дек 26 19:12 Загрузки
+drwxr-xr-x  2 roman roman 4096 дек 26 19:12 Изображения
+drwxr-xr-x  2 roman roman 4096 дек 26 19:12 Музыка
+drwxr-xr-x  2 roman roman 4096 дек 26 19:12 Общедоступные
+drwxr-xr-x  2 roman roman 4096 дек 26 19:12 Рабочий стол
+drwxr-xr-x  2 roman roman 4096 дек 26 19:12 Шаблоны
